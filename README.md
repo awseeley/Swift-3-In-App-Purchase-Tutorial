@@ -5,7 +5,7 @@ Source code on making In App Purchases using Swift 3.
 
 Tutorial:
 
-https://youtu.be/FgCIRMz_3dE
+https://youtu.be/zRrs7O5yjKI
 
 Check out our Website: http://www.seemuapps.com
 
